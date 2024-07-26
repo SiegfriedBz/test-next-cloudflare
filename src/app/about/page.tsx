@@ -1,6 +1,4 @@
-const runtime = "edge";
-
-import React from "react";
+export const runtime = "edge";
 
 const page = () => {
   console.log("ABOUT -> I am a SERVER component");
