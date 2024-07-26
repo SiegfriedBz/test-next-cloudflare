@@ -1,3 +1,5 @@
+const runtime = "edge";
+
 import React from "react";
 
 const page = () => {

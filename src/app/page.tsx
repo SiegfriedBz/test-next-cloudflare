@@ -1,3 +1,5 @@
+const runtime = "edge";
+
 import ButtonWrapper from "@/components/ButtonWrapper";
 import Link from "next/link";
 
